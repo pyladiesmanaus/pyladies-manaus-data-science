@@ -13,7 +13,7 @@ Para acesso aos slides, clique [aqui](https://www.dropbox.com/s/onxq3yardd5oaq5/
 
 **Linguagem de Programação utilizada**: Python3
 
-**Configurações de ambiente**: 
+**Configurações de ambiente**: Matplotlib, Numpy, Pandas, GMPlot e Jupyter Notebook (para mais informações, acesse os [requisitos](https://github.com/aliceadativa/pyladies-manaus-data-science/blob/master/requirements.txt))
 
 **Pré-requisitos**: Conhecimento básico da linguagem Python
 
